@@ -6,7 +6,7 @@
 
 
 ![logo1][image1]  ![sql][image6]  ![datalens][image3]   
- ![git][image5] ![tablo][image2] ![yupiter][image4]  
+![git][image5] ![tablo][image2] ![yupiter][image4]  
 ## Follow Me \ Связаться со мной
   
 
