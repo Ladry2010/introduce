@@ -5,8 +5,11 @@
 # Languages & Tools \ Языки и инструменты
 
 
-![logo1][image1]   ![datalens][image3]  ![yupiter][image4]   
- ![tablo][image2] 
+![logo1][image1]  ![sql][image6]  ![datalens][image3]   
+   ![git][image5] ![tablo][image2] ![yupiter][image4]  
+  
+
+
 
 
 
@@ -15,3 +18,5 @@
 [image2]:https://github.com/Ladry2010/introduce/assets/156521640/827e4fe0-f07e-49d5-abb5-9d9d8153da9d
 [image3]:https://github.com/Ladry2010/introduce/assets/156521640/8bc4718d-12fb-4ecc-b85e-2637be77b1d8
 [image4]:https://github.com/Ladry2010/introduce/assets/156521640/129d578a-c034-48cb-9116-aac496f36e5c
+[image5]:https://github.com/Ladry2010/introduce/assets/156521640/9fa0a430-292a-4ebd-9915-bb97c7c2d444
+[image6]:https://github.com/Ladry2010/introduce/assets/156521640/963598a3-2b12-4a6f-95e5-d9ee8686f2f5
