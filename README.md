@@ -1,5 +1,9 @@
 # introduce
 
+Я - junior аналитик данных. Я закончила курс "Аналитик данных" от Яндекс.Практикум
+
+# Languages & Tools \ Языки и инструменты
+
 
 ![logo1][image1]   ![datalens][image3]  ![yupiter][image4]   
  ![tablo][image2] 
