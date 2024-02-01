@@ -1,13 +1,15 @@
 # introduce
 
-***Я - junior аналитик данных. Я закончила курс "Аналитик данных" от Яндекс.Практикум.Во время обучения мною были выполнены проекты*** [Yandex_Practicum_projects](https://github.com/Ladry2010/Yandex_Practicum_projects)
+***Я - junior аналитик данных. Я закончила курс "Аналитик данных" от Яндекс.Практикум.Во время обучения мною были выполнены проекты*** [Yandex_Practicum_projects](https://github.com/Ladry2010/Yandex_Practicum_projects),***в которых были использованы***
 
-## Languages & Tools \ Языки и инструменты
+### Languages & Tools \ Языки и инструменты:
 
 
 ![logo1][image1]  ![sql][image6]  ![datalens][image3]   
- ![tablo][image2] ![yupiter][image4]  
-## Follow Me \ Связаться со мной
+ ![tablo][image2] ![yupiter][image4]
+
+ 
+### Follow Me \ Связаться со мной:
   
 
 
