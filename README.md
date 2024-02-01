@@ -1,6 +1,6 @@
 # introduce
 
-***Я - junior аналитик данных. Я закончила курс "Аналитик данных" от Яндекс.Практикум.Во время обучения мною были выполнены проекты*** [Yandex_Practicum_projects]
+***Я - junior аналитик данных. Я закончила курс "Аналитик данных" от Яндекс.Практикум.Во время обучения мною были выполнены проекты*** [Yandex_Practicum_projects](https://github.com/Ladry2010/Yandex_Practicum_projects)
 
 ## Languages & Tools \ Языки и инструменты
 
