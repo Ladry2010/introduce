@@ -16,6 +16,8 @@
  
 ### Follow Me \ Связаться со мной:
   
+[![telegram](https://github.com/Ladry2010/introduce/assets/156521640/c85792c5-d38a-45fc-a257-21b095458005)](https://t.me/ladry2010)
+
 
 
 
