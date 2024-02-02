@@ -4,9 +4,14 @@
 
 ### Languages & Tools \ Языки и инструменты:
 
+![pyhton-3][image1]![sql-1][image6]         ![datalens-1][image3]              ![tablo-1][image2]          ![yupiter-1][image4]
 
-![logo1][image1]  ![sql][image6]  ![datalens][image3]   
- ![tablo][image2] ![yupiter][image4]
+   
+  
+ 
+
+
+
 
  
 ### Follow Me \ Связаться со мной:
@@ -17,9 +22,9 @@
 
 
 
-[image1]:https://github.com/Ladry2010/introduce/assets/156521640/286412b2-fef7-4c23-a30d-4c3dab465ff4/150x100
-[image2]:https://github.com/Ladry2010/introduce/assets/156521640/827e4fe0-f07e-49d5-abb5-9d9d8153da9d
-[image3]:https://github.com/Ladry2010/introduce/assets/156521640/8bc4718d-12fb-4ecc-b85e-2637be77b1d8
-[image4]:https://github.com/Ladry2010/introduce/assets/156521640/129d578a-c034-48cb-9116-aac496f36e5c
+[image1]:https://github.com/Ladry2010/introduce/assets/156521640/65d468ce-caa6-4d82-8d5a-f131486ae149
+[image2]:https://github.com/Ladry2010/introduce/assets/156521640/55b560fd-a952-41c7-bd9c-7bb136f41bd7
+[image3]:https://github.com/Ladry2010/introduce/assets/156521640/b27b921c-1882-4601-9a88-7621f25de69a
+[image4]:https://github.com/Ladry2010/introduce/assets/156521640/a477ecc0-90a9-40db-aa43-79b35570649b
 [image5]:https://github.com/Ladry2010/introduce/assets/156521640/9fa0a430-292a-4ebd-9915-bb97c7c2d444
-[image6]:https://github.com/Ladry2010/introduce/assets/156521640/963598a3-2b12-4a6f-95e5-d9ee8686f2f5
+[image6]:https://github.com/Ladry2010/introduce/assets/156521640/bf8ae51c-bfaa-43c3-a3f1-27b2771f899e
